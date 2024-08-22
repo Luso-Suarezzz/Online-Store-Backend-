@@ -53,4 +53,8 @@ Búsqueda: Se deberá proporcionar un campo de búsqueda en la página de inicio
 
 Listado: Se deberá proporcionar una sección en la página de inicio donde se muestre un listado disponibles en la tienda. Cada producto deberá mostrar su nombre, cantidad disponible y una descripción breve.
 
+Ademas te adjunto la maquetación en Figma, por si quieres ver la paleta de colores que use:
+
+https://www.figma.com/design/0AQkWHclvrre6uX2O7C0aQ/Online-Store?node-id=0-1&t=bBZk06pPFYCXQH3Y-0
+
 Espero que esta información te sea útil al momento de correr el código, Saludos!
